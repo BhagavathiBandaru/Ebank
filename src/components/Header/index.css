@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 30px;
+}
+
+.logout-btn {
+  color: #c3cad9;
+  border: 2px solid #c3cad9;
+  background-color: transparent;
+  padding: 5px 15px 5px 15px;
+  outline: none;
+}

@@ -1,0 +1,24 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #152850;
+}
+
+.home-card-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.card-img {
+  height: 350px;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 45px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
